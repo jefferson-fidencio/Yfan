@@ -1,0 +1,2 @@
+MainPackage=D:\VotacaoEstampas - 6 - Quase versao final 1\VotacaoEstampas\VotacaoEstampas.Windows\bin\Release\VotacaoEstampas.Windows_1.0.0.3_AnyCPU.appx
+SymbolPackage=D:\VotacaoEstampas - 6 - Quase versao final 1\VotacaoEstampas\VotacaoEstampas.Windows\AppPackages\VotacaoEstampas.Windows_1.0.0.3_Test\VotacaoEstampas.Windows_1.0.0.3_AnyCPU.appxsym

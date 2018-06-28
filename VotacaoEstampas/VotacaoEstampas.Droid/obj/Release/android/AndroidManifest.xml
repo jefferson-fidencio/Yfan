@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" android:versionCode="010" android:versionName="0.1.0" package="br.com.voluta.votacao.yfan">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="15" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <application android:label="VotacaoEstampas.Droid" android:icon="@drawable/ic_launcher" android:name="android.app.Application" android:allowBackup="true">
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/ic_launcher" android:label="VotacaoEstampas" android:theme="@style/MainTheme" android:name="md57534c17236c59d0dd41d1e7bb0226563.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:configChanges="orientation|screenSize" android:name="md54fe4aef201482be7d95d72c0c9bf0b33.FilePickerActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="br.com.voluta.votacao.yfan.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+</manifest>

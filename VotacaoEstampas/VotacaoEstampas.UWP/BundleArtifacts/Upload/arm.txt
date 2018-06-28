@@ -1,0 +1,1 @@
+MainPackage=D:\VotacaoEstampas - 6 - Quase versao final 1\VotacaoEstampas\VotacaoEstampas.UWP\bin\ARM\Release\Upload\VotacaoEstampas.UWP_1.1.9.0_ARM.appx

@@ -1,0 +1,2 @@
+MainPackage=D:\VotacaoEstampas - 6 - Quase versao final 1\VotacaoEstampas\VotacaoEstampas.UWP\bin\x86\Release\Upload\VotacaoEstampas.UWP_1.1.10.0_x86.appx
+SymbolPackage=D:\VotacaoEstampas - 6 - Quase versao final 1\VotacaoEstampas\VotacaoEstampas.UWP\VotacaoEstampas.UWP_1.1.10.0\VotacaoEstampas.UWP_1.1.10.0_x86.appxsym

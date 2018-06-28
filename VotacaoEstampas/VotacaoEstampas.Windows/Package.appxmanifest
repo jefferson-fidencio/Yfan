@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
+  <Identity Name="c6d78715-3f02-4688-8528-cf75422261f3" Publisher="CN=jdfid" Version="1.0.0.15" />
+  <Properties>
+    <DisplayName>VotacaoEstampas.Windows</DisplayName>
+    <PublisherDisplayName>jdfid</PublisherDisplayName>
+    <Logo>Assets\logo_50.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.0</OSMinVersion>
+    <OSMaxVersionTested>6.3.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="VotacaoEstampas.Windows.App">
+      <m2:VisualElements DisplayName="YFAN Fashion" Square150x150Logo="Assets\logo_150.png" Square30x30Logo="Assets\logo_30.png" Description="Aplicação para votação de estampas." ForegroundText="light" BackgroundColor="#464646">
+        <m2:DefaultTile Square70x70Logo="Assets\logo_70.png">
+        </m2:DefaultTile>
+        <m2:SplashScreen Image="Assets\logo_620.png" />
+      </m2:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

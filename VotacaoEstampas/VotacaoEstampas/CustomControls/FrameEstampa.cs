@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Xamarin.Forms;
+
+namespace VotacaoEstampas.CustomControls
+{
+    public class FrameEstampa : Frame
+    {
+        public int idEstampa { get; set; }
+    }
+}
