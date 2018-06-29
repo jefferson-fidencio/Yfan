@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 VotacaoEstampas/VotacaoEstampas.Droid/* linguist-vendored
-VotacaoEstampas/VotacaoEstampas.UWP/* linguist-vendored
+VotacaoEstampas/VotacaoEstampas.Windows/* linguist-vendored
